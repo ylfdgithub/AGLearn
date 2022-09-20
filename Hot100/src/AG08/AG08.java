@@ -26,14 +26,8 @@ public class AG08 {
 //                if (nums[index2]+nums[index3]==-nums[index1]) answers.add(new ArrayList<Integer>(new int[]{1,2,3}));
 //            }
 //        }
+//
 //    }
-    public static int a(){
-        try{
-            return 1;
-        }catch (Exception e){
-            return 2;
-        }finally {
-            return 3;
-        }
-    }
+
+
 }
